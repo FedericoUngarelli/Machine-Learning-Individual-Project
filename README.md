@@ -1,5 +1,4 @@
 # Machine-Learning-Individual-Project
-BEMACS Individual Assignment - Machine Learning course
 
 This dataset is composed of 1100 samples with 20 features each. The first column
 is the sample id. The second column in the dataset represents the label. There
